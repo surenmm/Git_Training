@@ -1,2 +1,1 @@
 First line of text in 2nd file created in dev branch
-This line is added to check git revert command in Git
