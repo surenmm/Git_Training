@@ -1,1 +1,2 @@
 First line of text in 2nd file created in dev branch
+this line is added to check diff command in git
