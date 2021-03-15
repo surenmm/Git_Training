@@ -1,1 +1,2 @@
 First line of text in 2nd file created in dev branch
+This is the second line added from main branch
