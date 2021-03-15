@@ -1,1 +1,4 @@
 First line of text in 2nd file created in dev branch
+
+This line is added to check merge conflict and check which line to add
+
