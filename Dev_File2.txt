@@ -1,3 +1,6 @@
 This is the first line in Dev_File2.txt
+<<<<<<< Updated upstream
 This is a new line added after stash command but before commit in Dev_File2.txt
+=======
+>>>>>>> Stashed changes
 This is a new line added to check stash command in Dev_File2.txt
