@@ -1,1 +1,2 @@
 This is the first line in Dev_File2.txt
+This is a new line added after stash command but before commit in Dev_File2.txt
